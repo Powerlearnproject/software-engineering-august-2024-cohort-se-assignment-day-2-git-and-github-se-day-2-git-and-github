@@ -19,6 +19,7 @@
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
+Answers
 
 Fundamental Concepts of Version Control and the Popularity of GitHub
 
