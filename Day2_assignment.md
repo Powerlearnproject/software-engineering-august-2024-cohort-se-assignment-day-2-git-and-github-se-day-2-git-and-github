@@ -10,7 +10,7 @@
 - **Reverting Changes:** Enables you to revert to previous versions of files if something goes wrong.
 - **Collaboration:** Facilitates multiple people working on the same project without interfering with each other's work.
 
-*GitHub is popular for managing versions of code due to several key features and advantages:*
+**GitHub is popular for managing versions of code due to several key features and advantages:**
 
 1. **Integration with Git:** Provides powerful version control features through a user-friendly interface.
 2. **Collaborative Features:** Includes pull requests, code reviews, and issue tracking for team collaboration.
@@ -206,6 +206,7 @@ A well-written README ensures that contributors and users can easily understand 
 - **Project Boards:** Provide a visual way to manage tasks and track progress. They allow you to organize issues and pull requests into columns representing different stages of development 
 
 **Examples**
+
 *Bug Tracking:* A software development team uses GitHub issues to track and prioritize bugs reported by users. They use labels to categorize bugs by severity and assign them to specific developers.
 
 *Product Roadmap Management:* A product development team creates a project board to represent their product roadmap. Each column on the board represents a different stage of development, and tasks are created for each feature or milestone.
