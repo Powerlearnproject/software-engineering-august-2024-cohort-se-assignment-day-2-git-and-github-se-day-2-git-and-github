@@ -36,7 +36,7 @@ the importance is that it helps you keep track of your changes and provides room
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 pull requests enables you to merge your changes from one branch to another and facilitate code review and collabortaion enabling others review changes befoe they became part of main branch and also enables team members to discuss changes amongest themselves.
 steps to make this include;
-ceating a pull request after making changes on your branch.
+Creating a pull request after making changes on your branch.
 then reviewing and discussing he changes with team.
 finally merging pull request once youre all satisfied with outcome.
 
