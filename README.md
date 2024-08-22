@@ -146,4 +146,4 @@ Best Practices
 2. Code Reviews
 3. Continuous Integration 
 4. Consistent Workflow
-5. Learning Resources
+5. Learning Resources.
