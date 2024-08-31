@@ -196,7 +196,7 @@ A **pull request (PR)** is a critical feature in GitHub that facilitates code re
    - **Merge**: Click on the "Merge pull request" button on GitHub.
    - **Delete the Branch**: After merging, you can delete the feature branch both locally and on GitHub to keep the repository clean.
 
-#### 8. **Close the Pull Request**
+#### 8. **Close the Pull Request** 
    - The pull request is automatically closed once it’s merged. Any further discussion or changes will need a new pull request.
 
 
