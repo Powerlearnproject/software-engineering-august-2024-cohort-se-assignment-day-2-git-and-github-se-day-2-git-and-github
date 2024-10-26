@@ -38,18 +38,15 @@
       2. Public repositories showcase your work to potential employers or future collaborators interested in your project; Increased Visibility
       3. Free Hosting: Many platforms offer free hosting for public repositories, which is ideal for open-source projects.
       4. Learning and Feedback: Public repositories can help you improve your coding skills through feedback from other developers
-
     - Disadvantages
         1. Public repositories carry a security risk since the code is open to everyone, there's a higher risk of exposing vulnerabilities
-        2. Your code and ideas are also accessible to everyone, which might not be ideal if you want to protect your intellectual property
-        
+        2. Your code and ideas are also accessible to everyone, which might not be ideal if you want to protect your intellectual property  
     **Private repositories**
      - Advantages
         1. Private repositories ensure code and Intelluctual protection
         2. Private repositories also give you more control over who can view and modify you code.
-        3. Thers's also the benefit of testing and developing your project away from public exposure which is crucial for sensitive or unfinished projects
-        
-    - disadvantages
+        3. Thers's also the benefit of testing and developing your project away from public exposure which is crucial for sensitive or unfinished projects 
+    - Disadvantages
        1. Limited Collaboration: Only invited collaborators can contribute, which might limit the diversity of input and feedback1.
        2. Cost: Some platforms charge for private repositories, especially if you need more advanced features or more collaborators1
         
